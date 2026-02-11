@@ -12,7 +12,7 @@ function App() {
       description: "Experience the tropical paradise of Okinawa with its stunning beaches, rich culture, and unique Ryukyuan heritage."
     },
     {
-      name: "Tokio",
+      name: "Tokyo",
       image: "/tokio.jpg",
       description: "Discover the vibrant metropolis of Tokyo, where tradition meets innovation in Japan's bustling capital city."
     }
